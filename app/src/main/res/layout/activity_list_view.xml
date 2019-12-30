@@ -11,7 +11,7 @@
         android:layout_weight="5"
         android:background="@color/fuscous_gray"
         android:gravity="center_horizontal|center_vertical"
-        android:text="@string/my_places"
+        android:text="@string/my_islands"
         android:textColor="@color/honeysuckle"
         android:textSize="30sp" />
 
