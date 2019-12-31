@@ -15,7 +15,7 @@ import java.util.Optional;
 public class ListViewActivity extends Activity {
 
     List<Island> islands = new ArrayList<Island>() {{
-        add(new Island("Azores", "׳azores_islands", "Whale watching"));
+        add(new Island("Azores", "azores_islands", "Whale watching"));
         add(new Island("Japan", "japan", "Future technologies"));
         add(new Island("Ireland", "ireland", "Redhead people"));
         add(new Island("Philippines", "philippines", "Perfect beaches"));
