@@ -19,7 +19,8 @@ public class ListViewActivity extends Activity {
         add(new Island("Japan", "japan", "Future technologies"));
         add(new Island("Ireland", "ireland", "Redhead people"));
         add(new Island("Philippines", "philippines", "Perfect beaches"));
-        add(new Island("Sri-Lanka", "sri_lanka", "Surfing"));
+        add(new Island("Seychelles", "seychelles", "Water pigs"));
+        add(new Island("Sardinia", "sardinia", "Delicious food"));
     }};
 
     ListView listView;
